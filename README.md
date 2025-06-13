@@ -34,7 +34,7 @@ clinic-management-ui/
 
 ## 📸 Screenshot
 
-> *(You can add a screenshot of the app here)*
+> *(![image](https://github.com/user-attachments/assets/2dae1778-cbd5-4464-9534-782fcef4653c))*
 
 ## 📃 License
 MIT
